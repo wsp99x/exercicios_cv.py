@@ -1,6 +1,6 @@
-import math
-a = int(input('Digite um angulo qualquer e descubra seno cosseno e tangeente: '))
-seno = math.sin(math.radians(a))
-cosseno = math.cos(math.radians(a))
-tangente = math.tan(math.radians(a))
-print('Seno: {}, \n Cosseno: {} \n Tangente: {}'.format(seno, cosseno, tangente))
+from math import sin , cos, tan, radians
+a = int(input('Digite um angulo qualquer e descubra seno, cosseno e tangeente: '))
+seno = sin(radians(a))
+cosseno = cos(radians(a))
+tangente = tan(radians(a))
+print('Seno: {:.2f} \n Cosseno: {:.2f} \n Tangente: {:.2f}'.format(seno, cosseno, tangente))

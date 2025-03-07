@@ -31,8 +31,6 @@ Manipulação de Strings
 Cada arquivo Python (".py") corresponde a um exercício resolvido. Eles estão organizados conforme os módulos do curso:
 
 /exercicios_cv.py/
-/assets/
-│-- like_him.mp3
 /aulas/
 │-- aula006.py
 │-- aula007.py
@@ -60,6 +58,7 @@ Cada arquivo Python (".py") corresponde a um exercício resolvido. Eles estão o
 │-- ex020.py
 │-- ex021.py
 │-- ---
+│-- Like him.mp3
 
 
 

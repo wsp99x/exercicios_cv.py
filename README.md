@@ -62,19 +62,24 @@ Cada arquivo Python (".py") corresponde a um exercício resolvido. Eles estão o
 │-- ---
 
 
+
 🚀 Como Utilizar
 
-Clone este repositório para seu computador:
+1. Clone este repositório para seu computador:
 
 git clone https://github.com/wsp99x/exercicios_cv.py.git
 
 Acesse a pasta do repositório:
 
-cd nome-do-repositorio
+cd exercicios_cv.py
 
-Execute os códigos Python:
+2. Instale as dependências necessárias:
 
-python3 nome_do_arquivo.py
+pip instal -r requirements.txt
+
+3. Execute os códigos Python:
+
+python nome_do_arquivo.py
 
 💪 Contribuição
 
